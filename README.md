@@ -1,4 +1,3 @@
-# health-care-ai-companion
 🏥 Health Care AI Companion
 
 An AI-powered Healthcare Companion that integrates physical health tracking and mental wellness support into a single platform.
